@@ -7,7 +7,7 @@
 ## Use HTML, Css and javascript for this random prank generator!
 
 
-## Demo [Link](https://r7u02n.csb.app/) 
+Demo [Link](https://r7u02n.csb.app/) 
 
 
 ##
